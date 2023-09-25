@@ -9,7 +9,7 @@ Team members:
 </p>
 
 <p>
-    Directory:
+    Directory of FYP folder:
     <ul>
         <li>Code: Contains Jupyter notebook files containing the codes we used in our project</li>
         <li>Dataset: Contains CSV files of our dataset</li>
